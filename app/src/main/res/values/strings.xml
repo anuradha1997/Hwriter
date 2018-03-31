@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Hindi_Writter</string>
+    <string-array name="data">
+        <item>premchandra</item>
+        <item>kalidas</item>
+        <item>Harivansh Rai Bacchan</item>
+        <item>Bhartendu Harishchandra</item>
+        <item>Tulsidas </item>
+        <item>Dushyant Kumar</item>
+        <item>Nagarjun</item>
+        <item>Chand Bardai </item>
+        <item>Tulsidas </item>
+        <item>Guru Gobind Singh Ji </item>
+        <item>Bhisham Sahni</item>
+        <item>Suryakant Tripathi</item>
+        <item>Devaki Nandan Khatri </item>
+        <item>Banarasidas</item>
+        <item>Amitab Bacchan</item>
+        <item>Maha Devi Verma</item>
+    </string-array>
+    <string-array name="gh">
+        <item> Munshi Premchandra (31 July 1880 – 8 October 1936) (real name Dhanpat Rai), was an Indian writer famous for his modern Hindi-Urdu literature. He is one of the most celebrated writers of the Indian subcontinent,[1] and is regarded as one of the foremost Hindustani writers of the early twentieth century.[2] He began writing under the pen name "Nawab Rai", but subsequently switched to "Premchand", Munshi being an honorary prefix. A novel writer, story writer and dramatist, he has been referred to as the "Upanyas Samrat" ("Emperor among Novelists") by writers. His works include more than a dozen novels, around 250 short stories, several essays and translations of a number of foreign literary works into Hindi.
+        BOOKS WRITTEN BY THEM:-
+        1)-Mansarovar
+        2)-Godan
+        3)-Nirmala
+        4)-Kaffan
+        5)-Sartaj ke Khialdi</item>
+
+        <item> Kālidāsa was a Classical Sanskrit writer, widely regarded as the greatest poet and dramatist in the Sanskrit language of India. His plays and poetry are primarily based on the Vedas, the Mahabharata and the Puranas.[1]
+
+Much about his life is unknown, only what can be inferred from his poetry and plays.[2] His works cannot be dated with precision, but they were most likely authored within the 4th-5th century CE.</item>
+
+        <item>Harivansh Rai Srivastava (27 November 1907 – 18 January 2003), better known his pen name Bachchan, was a noted Indian poet of the Nayi Kavita literary movement (romantic upsurge) of early 20th century Hindi literature. Born in a Hindu Awadhi Indian Srivastava Kayastha family, in Allahabad in the United Provinces of Agra and Oudh, in British India, he was also a famous poet of the Hindi Kavi Sammelan. He is best known for his early work Madhushala (मधुशाला).[1] He is also the husband of social activist, Teji Bachchan, and father of the noted Hindi film actor, Amitabh Bachchan and grand father of Abhishek Bachchan. In 1986, he was honoured with the Padma Bhushan for his immense contribution to Hindi literature.
+        1)-Madushala
+        2)-Neeli Chaidaiya
+        3)-Millan Yamini
+        4)-Nisha Nimantaran
+        5)-Jala Sameeta</item>
+    </string-array>
+</resources>
